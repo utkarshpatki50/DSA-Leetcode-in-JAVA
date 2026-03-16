@@ -46,6 +46,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -106,6 +107,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0020-valid-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
