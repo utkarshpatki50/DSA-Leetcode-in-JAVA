@@ -1,12 +1,12 @@
 class Solution {
     public String reverseWords(String s) {
+        int n = s.length();
         StringBuilder ans = new StringBuilder();
-        Stack<String> st = new Stack<>();
         StringBuilder word = new StringBuilder();
+        Stack<String> st = new Stack<>();
 
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < n; i++) {
             char ch = s.charAt(i);
-
             if (ch != ' ') {
                 word.append(ch);
             } else {
@@ -21,15 +21,14 @@ class Solution {
             st.push(word.toString());
         }
 
-        while (!st.empty()) {
+        while(!st.empty()){
             ans.append(st.peek());
             st.pop();
 
-            if (!st.empty()) {
+            if(!st.isEmpty()){
                 ans.append(' ');
             }
         }
-
         return ans.toString();
     }
 }
