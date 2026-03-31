@@ -92,6 +92,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0205-isomorphic-strings](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -122,6 +123,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0205-isomorphic-strings](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 | [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
 | [1768-merge-strings-alternately](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1768-merge-strings-alternately) |
@@ -282,6 +284,7 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0169-majority-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0383-ransom-note) |
 ## Binary Search Tree
 |  |
 | ------- |
