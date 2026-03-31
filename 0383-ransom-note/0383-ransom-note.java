@@ -1,17 +1,15 @@
 class Solution {
-    public boolean canConstruct(String r, String m) {
-        HashMap<Character, Integer> mp = new HashMap<>();
-        for (int i = 0; i < m.length(); i++) {
-            char ch = m.charAt(i);
-            mp.put(ch, mp.getOrDefault(ch, 0) + 1);
+    public boolean canConstruct(String ransomNote, String magazine) {
+        int[] freq = new int[26];
+        for (char c : magazine.toCharArray()) {
+            freq[c - 'a']++;
         }
 
-        for (int i = 0; i< r.length(); i++) {
-            char ch = r.charAt(i);
-            if (mp.getOrDefault(ch, 0) > 0) {
-                mp.put(ch, mp.get(ch) - 1);
-            } else {
+        for (char ch : ransomNote.toCharArray()) {
+            if (freq[ch - 'a'] <= 0) {
                 return false;
+            } else {
+                freq[ch - 'a']--;
             }
         }
         return true;
