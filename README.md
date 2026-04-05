@@ -24,6 +24,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0136-single-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
@@ -155,6 +156,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0035-search-insert-position](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0792-binary-search) |
