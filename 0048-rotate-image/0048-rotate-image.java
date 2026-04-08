@@ -1,7 +1,9 @@
 class Solution {
+
     public void rotate(int[][] matrix) {
         int n = matrix.length;
 
+        //Transpose
         for (int i = 0; i < n; i++) {
             for (int j = i; j < n; j++) {
                 int temp = matrix[i][j];
@@ -10,20 +12,18 @@ class Solution {
             }
         }
 
+        //reverse rach row
         for (int i = 0; i < n; i++) {
-            reverse(matrix[i]);
+            int left = 0, right = n - 1;
+
+            while (left < right) {
+                int temp = matrix[i][left];
+                matrix[i][left] = matrix[i][right];
+                matrix[i][right] = temp;
+
+                left++;
+                right--;
+            }
         }
     }
-
-    private void reverse(int[] row) {
-        int l = 0, r = row.length - 1;
-        while (l < r) {
-            int temp = row[l];
-            row[l] = row[r];
-            row[r] = temp;
-            l++;
-            r--;
-        }
-    }
-
 }
