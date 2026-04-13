@@ -99,6 +99,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0205-isomorphic-strings](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0496-next-greater-element-i) |
@@ -130,6 +131,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0151-reverse-words-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0392-is-subsequence) |
