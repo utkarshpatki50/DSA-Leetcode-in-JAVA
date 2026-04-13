@@ -33,6 +33,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0169-majority-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
@@ -102,6 +103,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0290-word-pattern) |
@@ -246,6 +248,7 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
