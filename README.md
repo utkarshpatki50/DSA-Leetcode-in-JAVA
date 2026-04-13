@@ -24,6 +24,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0088-merge-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -95,6 +96,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0013-roman-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -325,4 +327,8 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
