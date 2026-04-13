@@ -64,6 +64,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0234-palindrome-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
@@ -130,6 +131,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0242-valid-anagram](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
@@ -175,6 +177,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0053-maximum-subarray](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
