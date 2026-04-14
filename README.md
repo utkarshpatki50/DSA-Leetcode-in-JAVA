@@ -75,6 +75,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0908-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
@@ -237,6 +238,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0876-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
