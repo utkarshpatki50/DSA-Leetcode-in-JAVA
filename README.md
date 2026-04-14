@@ -13,6 +13,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
@@ -171,6 +172,7 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
