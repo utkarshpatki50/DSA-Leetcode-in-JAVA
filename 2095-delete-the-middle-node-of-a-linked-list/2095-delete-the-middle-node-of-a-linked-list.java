@@ -11,7 +11,7 @@
 class Solution {
 
     public ListNode deleteMiddle(ListNode head) {
-        if (head == null) return head;
+        if (head == null || head.next == null) return null;
 
         ListNode dummy = new ListNode(0);
         dummy.next = head;
