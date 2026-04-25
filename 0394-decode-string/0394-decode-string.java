@@ -1,39 +1,36 @@
 class Solution {
+
     public String decodeString(String s) {
         int n = s.length();
-        Stack<String> stringStack = new Stack<>();
         Stack<Integer> countStack = new Stack<>();
-        String currStr = "";
-        int currNum = 0;
+        Stack<String> strStack = new Stack<>();
+
+        String currString = "";
+        int num = 0;
 
         for (char ch : s.toCharArray()) {
-
             if (Character.isDigit(ch)) {
-                currNum = currNum * 10 + (ch - '0');
+                num = num * 10 + (ch - '0');
             } else if (ch == '[') {
-                countStack.push(currNum);
-                stringStack.push(currStr);
-                currStr = "";
-                currNum = 0;
-            }
+                countStack.push(num);
+                strStack.push(currString);
 
-            else if (ch == ']') {
+                num = 0;
+                currString = "";
+            } else if (ch == ']') {
                 int repeat = countStack.pop();
-                String prevStr = stringStack.pop();
-                StringBuilder sb = new StringBuilder(prevStr);
+                String prevString = strStack.pop();
 
+                StringBuilder temp = new StringBuilder(prevString);
                 for (int i = 0; i < repeat; i++) {
-                    sb.append(currStr);
+                    temp.append(currString);
                 }
-                currStr = sb.toString();
 
+                currString = temp.toString();
+            } else {
+                currString += ch;
             }
-
-            else {
-                currStr += ch;
-            }
-
         }
-        return currStr;
+        return currString;
     }
 }
