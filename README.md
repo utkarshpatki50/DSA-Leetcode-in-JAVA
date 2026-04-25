@@ -149,6 +149,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
@@ -259,6 +260,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0209-minimum-size-subarray-sum](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
