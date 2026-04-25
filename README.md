@@ -72,6 +72,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
@@ -146,6 +147,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0392-is-subsequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
 | [1768-merge-strings-alternately](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
