@@ -1,11 +1,12 @@
 class Solution {
     public int maxVowels(String s, int k) {
         int n = s.length();
-        int maxVowels = 0, currentVowels = 0;
+        int currentVowels = 0, maxVowels = 0;
         int left = 0;
 
         for (int right = 0; right < n; right++) {
             char ch = s.charAt(right);
+
             if (isVowel(ch)) {
                 currentVowels++;
             }
@@ -21,7 +22,9 @@ class Solution {
                 maxVowels = Math.max(maxVowels, currentVowels);
             }
         }
+
         return maxVowels;
+
     }
 
     public boolean isVowel(char ch) {
