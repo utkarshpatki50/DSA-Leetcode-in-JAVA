@@ -47,6 +47,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [1496-lucky-numbers-in-a-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1677-matrix-diagonal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
