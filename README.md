@@ -124,6 +124,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0050-powx-n](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -146,6 +147,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0383-ransom-note](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
@@ -215,6 +217,7 @@ This repository contains Leetcode questions- DSA in Java.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2265-partition-array-according-to-given-pivot) |
