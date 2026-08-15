@@ -95,6 +95,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0383-ransom-note](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -158,6 +160,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0412-fizz-buzz](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -348,6 +351,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -371,6 +375,7 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -380,4 +385,5 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
