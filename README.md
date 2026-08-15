@@ -167,6 +167,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
@@ -234,6 +235,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0496-next-greater-element-i](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -375,6 +377,7 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
