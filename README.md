@@ -41,6 +41,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0238-product-of-array-except-self](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0792-binary-search) |
@@ -96,6 +97,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0229-majority-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0958-sort-array-by-parity-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0958-sort-array-by-parity-ii) |
 ## Hash Table
@@ -214,12 +216,14 @@ This repository contains Leetcode questions- DSA in Java.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
