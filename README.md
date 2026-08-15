@@ -386,4 +386,8 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
