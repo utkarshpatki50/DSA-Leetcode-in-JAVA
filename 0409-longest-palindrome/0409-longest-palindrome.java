@@ -1,24 +1,26 @@
 class Solution {
     public int longestPalindrome(String s) {
-        int count = 0;
-        HashMap<Character , Integer> map = new HashMap<>();
-        for(char  c: s.toCharArray()){
-             map.put(c , map.getOrDefault(c,0)+1);
-        }
+        int length = 0;
+        Map<Character, Integer> freq = new HashMap<>();
         boolean odd = false;
-        for(int i :  map.values()){
-            if(i %2 ==0){
-                count +=i;
-            }else{
-                count += i -1;
+
+        for (char c : s.toCharArray()) {
+            freq.put(c, freq.getOrDefault(c, 0) + 1);
+        }
+
+        for (int i : freq.values()) {
+            if (i % 2 == 0) {
+                length += i;
+            } else {
                 odd = true;
+                length += i - 1;
             }
         }
-        if(odd){
-            count +=1;
+
+        if (odd) {
+            length += 1;
         }
-       
-       return count;
-        
+
+        return length;
     }
 }
