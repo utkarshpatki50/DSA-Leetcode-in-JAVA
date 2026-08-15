@@ -1,42 +1,39 @@
 class Solution {
     public String decodeString(String s) {
-        int n= s.length();
-        Stack<Integer> countStack= new Stack<>();
-        Stack<String> strStack= new Stack<>();
+        Stack<Integer> countStack = new Stack<>();
+        Stack<StringBuilder> stringStack = new Stack<>();
 
-        String currString="";
-        int num=0;
+        int num = 0;
+        StringBuilder curr = new StringBuilder();
 
-        for(char ch: s.toCharArray()){
-            if(Character.isDigit(ch)){
-                num= num*10 + (ch-'0');
+        for (char ch : s.toCharArray()) {
+            if (Character.isDigit(ch)) {
+                num = num * 10 + (ch - '0');
             }
 
-            else if(ch== '['){
+            else if (ch == '[') {
                 countStack.push(num);
-                strStack.push(currString);
+                stringStack.push(curr);
 
-                num=0;
-                currString="";
-
+                num = 0;
+                curr = new StringBuilder();
             }
 
-            else if(ch== ']'){
-                int repeat= countStack.pop();
-                String prevString= strStack.pop();
+            else if (ch == ']') {
+                int repeat = countStack.pop();
+                StringBuilder prev = stringStack.pop();
 
-                StringBuilder temp= new StringBuilder(prevString);
-                for(int i=0; i<repeat; i++){
-                    temp.append(currString);
+                for (int i = 0; i < repeat; i++) {
+                    prev.append(curr);
                 }
-
-                currString= temp.toString();
+                curr = prev;
             }
 
-            else{
-                currString += ch;
+            else {
+                curr.append(ch);
             }
         }
-        return currString;
+        return curr.toString();
+
     }
 }
