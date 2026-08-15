@@ -20,6 +20,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0049-group-anagrams](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0088-merge-sorted-array) |
