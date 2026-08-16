@@ -44,6 +44,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0435-non-overlapping-intervals](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
@@ -236,6 +237,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -354,6 +356,7 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
 | ------- |
