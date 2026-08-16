@@ -19,6 +19,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -185,6 +186,7 @@ This repository contains Leetcode questions- DSA in Java.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
@@ -245,6 +247,7 @@ This repository contains Leetcode questions- DSA in Java.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
