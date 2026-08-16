@@ -165,6 +165,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0443-string-compression](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0686-repeated-string-match) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -225,6 +226,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +236,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0394-decode-string](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0503-next-greater-element-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/2390-removing-stars-from-a-string) |
@@ -376,6 +379,7 @@ This repository contains Leetcode questions- DSA in Java.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
