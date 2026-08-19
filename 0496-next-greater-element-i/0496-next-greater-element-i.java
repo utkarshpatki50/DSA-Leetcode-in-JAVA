@@ -1,18 +1,29 @@
 class Solution {
-    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Stack<Integer> st = new Stack<>();
-        Map<Integer, Integer> mp = new HashMap<>();
 
-        for (int num : nums2) {
-            while (!st.isEmpty() && st.peek() < num) {
-                mp.put(st.pop(), num);
+    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+        int n = nums2.length;
+        HashMap<Integer, Integer> ngeMap = new HashMap<>();
+        Stack<Integer> st = new Stack<>();
+
+        for (int i = n - 1; i >= 0; i--) {
+            int curr = nums2[i];
+
+            while (!st.isEmpty() && st.peek() <= curr) {
+                st.pop();
             }
-            st.push(num);
+
+            if (st.isEmpty()) {
+                ngeMap.put(curr, -1);
+            } else {
+                ngeMap.put(curr, st.peek());
+            }
+
+            st.push(curr);
         }
 
         int[] ans = new int[nums1.length];
-        for (int i = 0; i < nums1.length; i++) {
-            ans[i] = mp.getOrDefault(nums1[i], -1);
+        for (int i = 0; i < nums1.length ; i++) {
+            ans[i] = ngeMap.get(nums1[i]);
         }
 
         return ans;
