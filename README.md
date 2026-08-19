@@ -389,6 +389,7 @@ This repository contains Leetcode questions- DSA in Java.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
