@@ -22,6 +22,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0054-spiral-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ This repository contains Leetcode questions- DSA in Java.
 | [0013-roman-to-integer](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -187,6 +189,7 @@ This repository contains Leetcode questions- DSA in Java.
 | ------- |
 | [0048-rotate-image](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/utkarshpatki50/DSA-Leetcode-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/utkarshpatki50/DSA-Leetcode-JAVA/tree/master/0898-transpose-matrix) |
